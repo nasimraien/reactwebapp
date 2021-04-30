@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.82e6762b.chunk.css",
+    "main.js": "/static/js/main.b9ffff80.chunk.js",
+    "main.js.map": "/static/js/main.b9ffff80.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.21907db7.js",
+    "runtime-main.js.map": "/static/js/runtime-main.21907db7.js.map",
+    "static/css/2.74c02967.chunk.css": "/static/css/2.74c02967.chunk.css",
+    "static/js/2.c4d322e0.chunk.js": "/static/js/2.c4d322e0.chunk.js",
+    "static/js/2.c4d322e0.chunk.js.map": "/static/js/2.c4d322e0.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.74c02967.chunk.css.map": "/static/css/2.74c02967.chunk.css.map",
+    "static/css/main.82e6762b.chunk.css.map": "/static/css/main.82e6762b.chunk.css.map",
+    "static/js/2.c4d322e0.chunk.js.LICENSE.txt": "/static/js/2.c4d322e0.chunk.js.LICENSE.txt",
+    "static/media/about.4ad067a8.png": "/static/media/about.4ad067a8.png",
+    "static/media/androidappdevelopment.91606181.png": "/static/media/androidappdevelopment.91606181.png",
+    "static/media/appdevelopment.d491b82e.jpg": "/static/media/appdevelopment.d491b82e.jpg",
+    "static/media/digitalmarketing.44920ead.jpg": "/static/media/digitalmarketing.44920ead.jpg",
+    "static/media/marketing.02b48eb8.jpg": "/static/media/marketing.02b48eb8.jpg",
+    "static/media/softwaredevelopment.5f9e098e.jpg": "/static/media/softwaredevelopment.5f9e098e.jpg",
+    "static/media/webbgg.5a29e70a.png": "/static/media/webbgg.5a29e70a.png",
+    "static/media/webdevelopment.ad3e54b8.jpg": "/static/media/webdevelopment.ad3e54b8.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.21907db7.js",
+    "static/css/2.74c02967.chunk.css",
+    "static/js/2.c4d322e0.chunk.js",
+    "static/css/main.82e6762b.chunk.css",
+    "static/js/main.b9ffff80.chunk.js"
+  ]
+}
